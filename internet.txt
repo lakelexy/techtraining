@@ -1,0 +1,5 @@
+What is the Internet?
+The Internet is a global network of computers connected to each other which communicate through a standardized set of protocols
+Information on the Internet moves from one computer to another in the form of bits over various mediums, including Ethernet cables, fiber optic cables, and wireless signals(i.e., radio waves).
+Information transfer on the Internet from one computer to another does not need to follow a fixed path; in fact, it may change paths during the transfer. This information transfer is done in the form of packets and these packets may follow different routes depending on certain factors.
+ 
